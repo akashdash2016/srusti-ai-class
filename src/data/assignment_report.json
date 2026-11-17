@@ -1,0 +1,3343 @@
+{
+  "generated_at": "2026-11-18",
+  "class_size": 154,
+  "roll_format_notes": 29,
+  "assignments": [
+    {
+      "id": "a1",
+      "code": "A1",
+      "kind": "assignment",
+      "title": "AI Assignment Submission",
+      "shortTitle": "AI Assignment",
+      "dateLabel": "21 – 30 Sep 2026",
+      "windowStart": "2026-09-21",
+      "windowEnd": "2026-09-30",
+      "responseCount": 72,
+      "distinctCount": 71,
+      "totalMarks": null
+    },
+    {
+      "id": "a2",
+      "code": "A2",
+      "kind": "quiz",
+      "title": "MBA AI Quiz — Set 1: AI Foundations",
+      "shortTitle": "AI Quiz Set 1",
+      "dateLabel": "5 Oct 2026",
+      "windowStart": "2026-10-05",
+      "windowEnd": "2026-10-05",
+      "responseCount": 91,
+      "distinctCount": 91,
+      "totalMarks": 10
+    },
+    {
+      "id": "a3",
+      "code": "A3",
+      "kind": "assignment",
+      "title": "Student Assignment Submission",
+      "shortTitle": "Assignment Submission",
+      "dateLabel": "11 – 16 Nov 2026",
+      "windowStart": "2026-11-11",
+      "windowEnd": "2026-11-16",
+      "responseCount": 62,
+      "distinctCount": 60,
+      "totalMarks": null
+    }
+  ],
+  "students": [
+    {
+      "section": "A",
+      "roll": 1,
+      "name": "Abhas Kumar Pani",
+      "a1": {
+        "submitted": true,
+        "at": "2026-09-21T10:36:04",
+        "flags": []
+      },
+      "a2": {
+        "submitted": false,
+        "flags": []
+      },
+      "a3": {
+        "submitted": true,
+        "at": "2026-11-11T21:55:33",
+        "flags": []
+      },
+      "submittedCount": 2
+    },
+    {
+      "section": "A",
+      "roll": 2,
+      "name": "Abhishek Sahoo",
+      "a1": {
+        "submitted": true,
+        "at": "2026-09-21T14:03:11",
+        "flags": []
+      },
+      "a2": {
+        "submitted": true,
+        "at": "2026-10-05T10:32:57",
+        "flags": [],
+        "score": 9
+      },
+      "a3": {
+        "submitted": true,
+        "at": "2026-11-14T13:19:17",
+        "flags": []
+      },
+      "submittedCount": 3
+    },
+    {
+      "section": "A",
+      "roll": 3,
+      "name": "Ankit Das",
+      "a1": {
+        "submitted": true,
+        "at": "2026-09-21T21:56:59",
+        "flags": []
+      },
+      "a2": {
+        "submitted": true,
+        "at": "2026-10-05T10:33:27",
+        "flags": [],
+        "score": 8
+      },
+      "a3": {
+        "submitted": true,
+        "at": "2026-11-13T23:15:46",
+        "flags": []
+      },
+      "submittedCount": 3
+    },
+    {
+      "section": "A",
+      "roll": 4,
+      "name": "Ankita Das",
+      "a1": {
+        "submitted": true,
+        "at": "2026-09-22T19:47:38",
+        "flags": []
+      },
+      "a2": {
+        "submitted": true,
+        "at": "2026-10-05T10:32:14",
+        "flags": [],
+        "score": 9
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 2
+    },
+    {
+      "section": "A",
+      "roll": 5,
+      "name": "Anwesha Nayak",
+      "a1": {
+        "submitted": true,
+        "at": "2026-09-22T19:07:51",
+        "flags": []
+      },
+      "a2": {
+        "submitted": true,
+        "at": "2026-10-05T10:31:17",
+        "flags": [],
+        "score": 10
+      },
+      "a3": {
+        "submitted": true,
+        "at": "2026-11-14T19:39:26",
+        "flags": []
+      },
+      "submittedCount": 3
+    },
+    {
+      "section": "A",
+      "roll": 6,
+      "name": "Arpita Panda",
+      "a1": {
+        "submitted": false,
+        "flags": []
+      },
+      "a2": {
+        "submitted": false,
+        "flags": []
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 0
+    },
+    {
+      "section": "A",
+      "roll": 7,
+      "name": "Asha Priyadarshini Das",
+      "a1": {
+        "submitted": false,
+        "flags": []
+      },
+      "a2": {
+        "submitted": true,
+        "at": "2026-10-05T10:35:05",
+        "flags": [],
+        "score": 8
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 1
+    },
+    {
+      "section": "A",
+      "roll": 8,
+      "name": "Bibhuti Prasad Nayak",
+      "a1": {
+        "submitted": false,
+        "flags": []
+      },
+      "a2": {
+        "submitted": false,
+        "flags": []
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 0
+    },
+    {
+      "section": "A",
+      "roll": 9,
+      "name": "Chinmaya Mahanta",
+      "a1": {
+        "submitted": false,
+        "flags": []
+      },
+      "a2": {
+        "submitted": true,
+        "at": "2026-10-05T10:38:17",
+        "flags": [],
+        "score": 5
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 1
+    },
+    {
+      "section": "A",
+      "roll": 10,
+      "name": "Debanjan Mahapatra",
+      "a1": {
+        "submitted": true,
+        "at": "2026-09-21T10:32:46",
+        "flags": []
+      },
+      "a2": {
+        "submitted": true,
+        "at": "2026-10-05T10:30:24",
+        "flags": [],
+        "score": 10
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 2
+    },
+    {
+      "section": "A",
+      "roll": 11,
+      "name": "Debasmita Biswal",
+      "a1": {
+        "submitted": true,
+        "at": "2026-09-25T15:44:23",
+        "flags": []
+      },
+      "a2": {
+        "submitted": true,
+        "at": "2026-10-05T10:44:48",
+        "flags": [],
+        "score": 10
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 2
+    },
+    {
+      "section": "A",
+      "roll": 12,
+      "name": "Deepak Prajapati",
+      "a1": {
+        "submitted": false,
+        "flags": []
+      },
+      "a2": {
+        "submitted": true,
+        "at": "2026-10-05T10:33:31",
+        "flags": [],
+        "score": 9
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 1
+    },
+    {
+      "section": "A",
+      "roll": 13,
+      "name": "Dibyajit Das",
+      "a1": {
+        "submitted": false,
+        "flags": []
+      },
+      "a2": {
+        "submitted": true,
+        "at": "2026-10-05T10:35:27",
+        "flags": [],
+        "score": 6
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 1
+    },
+    {
+      "section": "A",
+      "roll": 14,
+      "name": "Dinesh Kumar Sahoo",
+      "a1": {
+        "submitted": false,
+        "flags": []
+      },
+      "a2": {
+        "submitted": false,
+        "flags": []
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 0
+    },
+    {
+      "section": "A",
+      "roll": 15,
+      "name": "Harapriya Sahu",
+      "a1": {
+        "submitted": false,
+        "flags": []
+      },
+      "a2": {
+        "submitted": true,
+        "at": "2026-10-05T10:31:40",
+        "flags": [],
+        "score": 10
+      },
+      "a3": {
+        "submitted": true,
+        "at": "2026-11-14T20:44:40",
+        "flags": []
+      },
+      "submittedCount": 2
+    },
+    {
+      "section": "A",
+      "roll": 16,
+      "name": "Jiban Jyoti Sahoo",
+      "a1": {
+        "submitted": false,
+        "flags": []
+      },
+      "a2": {
+        "submitted": false,
+        "flags": []
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 0
+    },
+    {
+      "section": "A",
+      "roll": 17,
+      "name": "Jyoti Prakash Barik",
+      "a1": {
+        "submitted": false,
+        "flags": []
+      },
+      "a2": {
+        "submitted": false,
+        "flags": []
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 0
+    },
+    {
+      "section": "A",
+      "roll": 18,
+      "name": "Kiran Maharana",
+      "a1": {
+        "submitted": true,
+        "at": "2026-09-21T10:35:49",
+        "flags": []
+      },
+      "a2": {
+        "submitted": true,
+        "at": "2026-10-05T10:30:22",
+        "flags": [],
+        "score": 10
+      },
+      "a3": {
+        "submitted": true,
+        "at": "2026-11-14T16:11:02",
+        "flags": []
+      },
+      "submittedCount": 3
+    },
+    {
+      "section": "A",
+      "roll": 19,
+      "name": "Madhusmita Dhal",
+      "a1": {
+        "submitted": false,
+        "flags": []
+      },
+      "a2": {
+        "submitted": true,
+        "at": "2026-10-05T10:31:16",
+        "flags": [],
+        "score": 10
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 1
+    },
+    {
+      "section": "A",
+      "roll": 20,
+      "name": "Manisha Ganguli",
+      "a1": {
+        "submitted": true,
+        "at": "2026-09-21T19:55:22",
+        "flags": []
+      },
+      "a2": {
+        "submitted": false,
+        "flags": []
+      },
+      "a3": {
+        "submitted": true,
+        "at": "2026-11-11T11:19:45",
+        "flags": []
+      },
+      "submittedCount": 2
+    },
+    {
+      "section": "A",
+      "roll": 21,
+      "name": "Narmada Sahoo",
+      "a1": {
+        "submitted": true,
+        "at": "2026-09-21T19:51:29",
+        "flags": []
+      },
+      "a2": {
+        "submitted": true,
+        "at": "2026-10-05T10:35:36",
+        "flags": [],
+        "score": 10
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 2
+    },
+    {
+      "section": "A",
+      "roll": 22,
+      "name": "Nikita Yadav",
+      "a1": {
+        "submitted": true,
+        "at": "2026-09-21T19:03:44",
+        "flags": []
+      },
+      "a2": {
+        "submitted": false,
+        "flags": []
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 1
+    },
+    {
+      "section": "A",
+      "roll": 23,
+      "name": "Nirmalyakanti Das",
+      "a1": {
+        "submitted": true,
+        "at": "2026-09-21T10:39:03",
+        "flags": []
+      },
+      "a2": {
+        "submitted": true,
+        "at": "2026-10-05T10:39:39",
+        "flags": [],
+        "score": 8
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 2
+    },
+    {
+      "section": "A",
+      "roll": 24,
+      "name": "Om Prakash Parida",
+      "a1": {
+        "submitted": true,
+        "at": "2026-09-21T10:58:27",
+        "flags": []
+      },
+      "a2": {
+        "submitted": false,
+        "flags": []
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 1
+    },
+    {
+      "section": "A",
+      "roll": 25,
+      "name": "Omm Prakash Dash",
+      "a1": {
+        "submitted": false,
+        "flags": []
+      },
+      "a2": {
+        "submitted": true,
+        "at": "2026-10-05T10:34:33",
+        "flags": [],
+        "score": 8
+      },
+      "a3": {
+        "submitted": true,
+        "at": "2026-11-14T20:11:57",
+        "flags": []
+      },
+      "submittedCount": 2
+    },
+    {
+      "section": "A",
+      "roll": 26,
+      "name": "Prabhudatta Gadanayak",
+      "a1": {
+        "submitted": true,
+        "at": "2026-09-21T10:35:11",
+        "flags": []
+      },
+      "a2": {
+        "submitted": true,
+        "at": "2026-10-05T10:32:07",
+        "flags": [],
+        "score": 10
+      },
+      "a3": {
+        "submitted": true,
+        "at": "2026-11-14T13:10:58",
+        "flags": []
+      },
+      "submittedCount": 3
+    },
+    {
+      "section": "A",
+      "roll": 27,
+      "name": "Pratikshya Sarangi",
+      "a1": {
+        "submitted": true,
+        "at": "2026-09-23T10:25:39",
+        "flags": []
+      },
+      "a2": {
+        "submitted": true,
+        "at": "2026-10-05T10:55:43",
+        "flags": [],
+        "score": 10
+      },
+      "a3": {
+        "submitted": true,
+        "at": "2026-11-14T13:14:05",
+        "flags": [
+          "roll"
+        ]
+      },
+      "submittedCount": 3
+    },
+    {
+      "section": "A",
+      "roll": 28,
+      "name": "Priti Das",
+      "a1": {
+        "submitted": true,
+        "at": "2026-09-21T14:27:55",
+        "flags": []
+      },
+      "a2": {
+        "submitted": false,
+        "flags": []
+      },
+      "a3": {
+        "submitted": true,
+        "at": "2026-11-14T11:50:11",
+        "flags": []
+      },
+      "submittedCount": 2
+    },
+    {
+      "section": "A",
+      "roll": 29,
+      "name": "Pritiprangya Bagha",
+      "a1": {
+        "submitted": true,
+        "at": "2026-09-22T08:28:13",
+        "flags": []
+      },
+      "a2": {
+        "submitted": true,
+        "at": "2026-10-05T10:32:11",
+        "flags": [],
+        "score": 10
+      },
+      "a3": {
+        "submitted": true,
+        "at": "2026-11-14T19:29:43",
+        "flags": []
+      },
+      "submittedCount": 3
+    },
+    {
+      "section": "A",
+      "roll": 30,
+      "name": "Pritismita Das",
+      "a1": {
+        "submitted": false,
+        "flags": []
+      },
+      "a2": {
+        "submitted": true,
+        "at": "2026-10-05T10:34:44",
+        "flags": [],
+        "score": 8
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 1
+    },
+    {
+      "section": "A",
+      "roll": 31,
+      "name": "Priyadarshini Haibru",
+      "a1": {
+        "submitted": true,
+        "at": "2026-09-21T14:59:13",
+        "flags": []
+      },
+      "a2": {
+        "submitted": false,
+        "flags": []
+      },
+      "a3": {
+        "submitted": true,
+        "at": "2026-11-14T11:55:18",
+        "flags": []
+      },
+      "submittedCount": 2
+    },
+    {
+      "section": "A",
+      "roll": 32,
+      "name": "Priyanka Das",
+      "a1": {
+        "submitted": true,
+        "at": "2026-09-21T10:46:37",
+        "flags": []
+      },
+      "a2": {
+        "submitted": true,
+        "at": "2026-10-05T10:30:52",
+        "flags": [],
+        "score": 10
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 2
+    },
+    {
+      "section": "A",
+      "roll": 33,
+      "name": "Priyaranjan Biswal",
+      "a1": {
+        "submitted": false,
+        "flags": []
+      },
+      "a2": {
+        "submitted": true,
+        "at": "2026-10-05T10:34:05",
+        "flags": [],
+        "score": 10
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 1
+    },
+    {
+      "section": "A",
+      "roll": 34,
+      "name": "Rasmi Ranjan Das",
+      "a1": {
+        "submitted": false,
+        "flags": []
+      },
+      "a2": {
+        "submitted": false,
+        "flags": []
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 0
+    },
+    {
+      "section": "A",
+      "roll": 35,
+      "name": "Sachindra Behera",
+      "a1": {
+        "submitted": true,
+        "at": "2026-09-21T10:38:24",
+        "flags": []
+      },
+      "a2": {
+        "submitted": true,
+        "at": "2026-10-05T10:31:13",
+        "flags": [],
+        "score": 10
+      },
+      "a3": {
+        "submitted": true,
+        "at": "2026-11-13T19:20:39",
+        "flags": []
+      },
+      "submittedCount": 3
+    },
+    {
+      "section": "A",
+      "roll": 36,
+      "name": "Sambit Kumar Mahapatra",
+      "a1": {
+        "submitted": true,
+        "at": "2026-09-21T10:36:46",
+        "flags": []
+      },
+      "a2": {
+        "submitted": false,
+        "flags": []
+      },
+      "a3": {
+        "submitted": true,
+        "at": "2026-11-11T21:51:45",
+        "flags": []
+      },
+      "submittedCount": 2
+    },
+    {
+      "section": "A",
+      "roll": 37,
+      "name": "Satyabrata Das",
+      "a1": {
+        "submitted": false,
+        "flags": []
+      },
+      "a2": {
+        "submitted": false,
+        "flags": []
+      },
+      "a3": {
+        "submitted": true,
+        "at": "2026-11-14T17:25:57",
+        "flags": []
+      },
+      "submittedCount": 1
+    },
+    {
+      "section": "A",
+      "roll": 38,
+      "name": "Subhadarshini Nayak",
+      "a1": {
+        "submitted": true,
+        "at": "2026-09-21T10:36:54",
+        "flags": []
+      },
+      "a2": {
+        "submitted": true,
+        "at": "2026-10-05T10:34:45",
+        "flags": [],
+        "score": 10
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 2
+    },
+    {
+      "section": "A",
+      "roll": 39,
+      "name": "Sonalika Balabantaray",
+      "a1": {
+        "submitted": true,
+        "at": "2026-09-21T10:36:14",
+        "flags": []
+      },
+      "a2": {
+        "submitted": true,
+        "at": "2026-10-05T10:37:22",
+        "flags": [],
+        "score": 10
+      },
+      "a3": {
+        "submitted": true,
+        "at": "2026-11-14T15:55:21",
+        "flags": []
+      },
+      "submittedCount": 3
+    },
+    {
+      "section": "A",
+      "roll": 40,
+      "name": "Soumya Ranjan Das",
+      "a1": {
+        "submitted": false,
+        "flags": []
+      },
+      "a2": {
+        "submitted": true,
+        "at": "2026-10-05T10:43:48",
+        "flags": [],
+        "score": 9
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 1
+    },
+    {
+      "section": "A",
+      "roll": 41,
+      "name": "Soumya Ranjan Sahoo",
+      "a1": {
+        "submitted": false,
+        "flags": []
+      },
+      "a2": {
+        "submitted": true,
+        "at": "2026-10-05T10:30:28",
+        "flags": [
+          "name"
+        ],
+        "score": 9
+      },
+      "a3": {
+        "submitted": true,
+        "at": "2026-11-14T13:43:45",
+        "flags": []
+      },
+      "submittedCount": 2
+    },
+    {
+      "section": "A",
+      "roll": 42,
+      "name": "Soumya Thapa",
+      "a1": {
+        "submitted": false,
+        "flags": []
+      },
+      "a2": {
+        "submitted": true,
+        "at": "2026-10-05T10:33:39",
+        "flags": [],
+        "score": 9
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 1
+    },
+    {
+      "section": "A",
+      "roll": 43,
+      "name": "Sriya Panda",
+      "a1": {
+        "submitted": true,
+        "at": "2026-09-23T15:29:17",
+        "flags": []
+      },
+      "a2": {
+        "submitted": false,
+        "flags": []
+      },
+      "a3": {
+        "submitted": true,
+        "at": "2026-11-14T18:55:55",
+        "flags": []
+      },
+      "submittedCount": 2
+    },
+    {
+      "section": "A",
+      "roll": 44,
+      "name": "Subhankar Jena",
+      "a1": {
+        "submitted": false,
+        "flags": []
+      },
+      "a2": {
+        "submitted": true,
+        "at": "2026-10-05T10:31:01",
+        "flags": [],
+        "score": 10
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 1
+    },
+    {
+      "section": "A",
+      "roll": 45,
+      "name": "Subrat Kumar Biswal",
+      "a1": {
+        "submitted": false,
+        "flags": []
+      },
+      "a2": {
+        "submitted": false,
+        "flags": []
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 0
+    },
+    {
+      "section": "A",
+      "roll": 46,
+      "name": "Subrata Biswal",
+      "a1": {
+        "submitted": false,
+        "flags": []
+      },
+      "a2": {
+        "submitted": true,
+        "at": "2026-10-05T10:41:45",
+        "flags": [
+          "name"
+        ],
+        "score": 10
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 1
+    },
+    {
+      "section": "A",
+      "roll": 47,
+      "name": "Sushree Sangita Das",
+      "a1": {
+        "submitted": false,
+        "flags": []
+      },
+      "a2": {
+        "submitted": false,
+        "flags": []
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 0
+    },
+    {
+      "section": "A",
+      "roll": 48,
+      "name": "Swapnarani Padhi",
+      "a1": {
+        "submitted": false,
+        "flags": []
+      },
+      "a2": {
+        "submitted": false,
+        "flags": []
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 0
+    },
+    {
+      "section": "A",
+      "roll": 49,
+      "name": "Swayamshree Pattnaik",
+      "a1": {
+        "submitted": false,
+        "flags": []
+      },
+      "a2": {
+        "submitted": true,
+        "at": "2026-10-05T10:44:46",
+        "flags": [],
+        "score": 10
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 1
+    },
+    {
+      "section": "A",
+      "roll": 50,
+      "name": "Amaresh Pati",
+      "a1": {
+        "submitted": false,
+        "flags": []
+      },
+      "a2": {
+        "submitted": true,
+        "at": "2026-10-05T10:35:39",
+        "flags": [],
+        "score": 10
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 1
+    },
+    {
+      "section": "B",
+      "roll": 1,
+      "name": "Abhijit Das",
+      "a1": {
+        "submitted": false,
+        "flags": []
+      },
+      "a2": {
+        "submitted": false,
+        "flags": []
+      },
+      "a3": {
+        "submitted": true,
+        "at": "2026-11-14T12:19:04",
+        "flags": []
+      },
+      "submittedCount": 1
+    },
+    {
+      "section": "B",
+      "roll": 2,
+      "name": "Abhishek Sahu",
+      "a1": {
+        "submitted": false,
+        "flags": []
+      },
+      "a2": {
+        "submitted": false,
+        "flags": []
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 0
+    },
+    {
+      "section": "B",
+      "roll": 3,
+      "name": "Aishwarya Panda",
+      "a1": {
+        "submitted": true,
+        "at": "2026-09-21T11:28:24",
+        "flags": []
+      },
+      "a2": {
+        "submitted": false,
+        "flags": []
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 1
+    },
+    {
+      "section": "B",
+      "roll": 4,
+      "name": "Babita Das",
+      "a1": {
+        "submitted": true,
+        "at": "2026-09-22T19:24:52",
+        "flags": []
+      },
+      "a2": {
+        "submitted": true,
+        "at": "2026-10-05T11:23:19",
+        "flags": [],
+        "score": 10
+      },
+      "a3": {
+        "submitted": true,
+        "at": "2026-11-14T13:03:50",
+        "flags": []
+      },
+      "submittedCount": 3
+    },
+    {
+      "section": "B",
+      "roll": 5,
+      "name": "Bijaya Kumar Sahoo",
+      "a1": {
+        "submitted": false,
+        "flags": []
+      },
+      "a2": {
+        "submitted": false,
+        "flags": []
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 0
+    },
+    {
+      "section": "B",
+      "roll": 6,
+      "name": "Bikash Kumar Panda",
+      "a1": {
+        "submitted": false,
+        "flags": []
+      },
+      "a2": {
+        "submitted": true,
+        "at": "2026-10-05T11:25:57",
+        "flags": [],
+        "score": 4
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 1
+    },
+    {
+      "section": "B",
+      "roll": 7,
+      "name": "Biswajit Nath",
+      "a1": {
+        "submitted": true,
+        "at": "2026-09-21T12:00:25",
+        "flags": []
+      },
+      "a2": {
+        "submitted": true,
+        "at": "2026-10-05T11:21:22",
+        "flags": [],
+        "score": 10
+      },
+      "a3": {
+        "submitted": true,
+        "at": "2026-11-13T18:44:38",
+        "flags": []
+      },
+      "submittedCount": 3
+    },
+    {
+      "section": "B",
+      "roll": 8,
+      "name": "Braja Sundar Sahoo",
+      "a1": {
+        "submitted": false,
+        "flags": []
+      },
+      "a2": {
+        "submitted": true,
+        "at": "2026-10-05T11:22:12",
+        "flags": [],
+        "score": 9
+      },
+      "a3": {
+        "submitted": true,
+        "at": "2026-11-14T13:02:16",
+        "flags": []
+      },
+      "submittedCount": 2
+    },
+    {
+      "section": "B",
+      "roll": 9,
+      "name": "Chandan Kumar Sahoo",
+      "a1": {
+        "submitted": false,
+        "flags": []
+      },
+      "a2": {
+        "submitted": false,
+        "flags": []
+      },
+      "a3": {
+        "submitted": true,
+        "at": "2026-11-14T12:21:03",
+        "flags": [
+          "name"
+        ]
+      },
+      "submittedCount": 1
+    },
+    {
+      "section": "B",
+      "roll": 10,
+      "name": "Fizarani Parwin",
+      "a1": {
+        "submitted": false,
+        "flags": []
+      },
+      "a2": {
+        "submitted": true,
+        "at": "2026-10-05T11:23:07",
+        "flags": [],
+        "score": 10
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 1
+    },
+    {
+      "section": "B",
+      "roll": 11,
+      "name": "Ipsita Mahalik",
+      "a1": {
+        "submitted": false,
+        "flags": []
+      },
+      "a2": {
+        "submitted": true,
+        "at": "2026-10-05T11:31:00",
+        "flags": [],
+        "score": 8
+      },
+      "a3": {
+        "submitted": true,
+        "at": "2026-11-14T22:01:37",
+        "flags": []
+      },
+      "submittedCount": 2
+    },
+    {
+      "section": "B",
+      "roll": 12,
+      "name": "Itishree Panda",
+      "a1": {
+        "submitted": false,
+        "flags": []
+      },
+      "a2": {
+        "submitted": false,
+        "flags": []
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 0
+    },
+    {
+      "section": "B",
+      "roll": 13,
+      "name": "Kiran Kumar Bastia",
+      "a1": {
+        "submitted": false,
+        "flags": []
+      },
+      "a2": {
+        "submitted": true,
+        "at": "2026-10-05T11:23:41",
+        "flags": [],
+        "score": 8
+      },
+      "a3": {
+        "submitted": true,
+        "at": "2026-11-14T12:47:00",
+        "flags": [
+          "duplicate"
+        ]
+      },
+      "submittedCount": 2
+    },
+    {
+      "section": "B",
+      "roll": 14,
+      "name": "Laxmi Priya Giri",
+      "a1": {
+        "submitted": true,
+        "at": "2026-09-21T12:08:25",
+        "flags": []
+      },
+      "a2": {
+        "submitted": true,
+        "at": "2026-10-05T11:29:53",
+        "flags": [],
+        "score": 7
+      },
+      "a3": {
+        "submitted": true,
+        "at": "2026-11-15T19:44:18",
+        "flags": []
+      },
+      "submittedCount": 3
+    },
+    {
+      "section": "B",
+      "roll": 15,
+      "name": "Linckon Kumar Dhal",
+      "a1": {
+        "submitted": false,
+        "flags": []
+      },
+      "a2": {
+        "submitted": false,
+        "flags": []
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 0
+    },
+    {
+      "section": "B",
+      "roll": 16,
+      "name": "Manjit Kumar Subudhi",
+      "a1": {
+        "submitted": true,
+        "at": "2026-09-21T12:06:11",
+        "flags": []
+      },
+      "a2": {
+        "submitted": false,
+        "flags": []
+      },
+      "a3": {
+        "submitted": true,
+        "at": "2026-11-12T20:15:43",
+        "flags": []
+      },
+      "submittedCount": 2
+    },
+    {
+      "section": "B",
+      "roll": 17,
+      "name": "Mukesh Karna",
+      "a1": {
+        "submitted": true,
+        "at": "2026-09-21T11:26:14",
+        "flags": []
+      },
+      "a2": {
+        "submitted": true,
+        "at": "2026-10-05T11:26:52",
+        "flags": [],
+        "score": 9
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 2
+    },
+    {
+      "section": "B",
+      "roll": 18,
+      "name": "Jyotirmayee Sahoo",
+      "a1": {
+        "submitted": true,
+        "at": "2026-09-21T11:58:28",
+        "flags": []
+      },
+      "a2": {
+        "submitted": true,
+        "at": "2026-10-05T11:25:26",
+        "flags": [],
+        "score": 10
+      },
+      "a3": {
+        "submitted": true,
+        "at": "2026-11-11T11:43:30",
+        "flags": []
+      },
+      "submittedCount": 3
+    },
+    {
+      "section": "B",
+      "roll": 19,
+      "name": "Nihal Pradhan",
+      "a1": {
+        "submitted": true,
+        "at": "2026-09-21T11:23:22",
+        "flags": []
+      },
+      "a2": {
+        "submitted": false,
+        "flags": []
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 1
+    },
+    {
+      "section": "B",
+      "roll": 20,
+      "name": "Nilu Swain",
+      "a1": {
+        "submitted": false,
+        "flags": []
+      },
+      "a2": {
+        "submitted": false,
+        "flags": []
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 0
+    },
+    {
+      "section": "B",
+      "roll": 21,
+      "name": "Nirmalya Behera",
+      "a1": {
+        "submitted": true,
+        "at": "2026-09-21T11:25:43",
+        "flags": []
+      },
+      "a2": {
+        "submitted": true,
+        "at": "2026-10-05T11:25:27",
+        "flags": [],
+        "score": 4
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 2
+    },
+    {
+      "section": "B",
+      "roll": 22,
+      "name": "Omm Prakash Nayak",
+      "a1": {
+        "submitted": true,
+        "at": "2026-09-21T11:22:21",
+        "flags": []
+      },
+      "a2": {
+        "submitted": false,
+        "flags": []
+      },
+      "a3": {
+        "submitted": true,
+        "at": "2026-11-14T15:44:27",
+        "flags": []
+      },
+      "submittedCount": 2
+    },
+    {
+      "section": "B",
+      "roll": 23,
+      "name": "Payal Sahoo",
+      "a1": {
+        "submitted": true,
+        "at": "2026-09-21T11:32:06",
+        "flags": []
+      },
+      "a2": {
+        "submitted": true,
+        "at": "2026-10-05T11:25:09",
+        "flags": [],
+        "score": 2
+      },
+      "a3": {
+        "submitted": true,
+        "at": "2026-11-15T23:35:35",
+        "flags": []
+      },
+      "submittedCount": 3
+    },
+    {
+      "section": "B",
+      "roll": 24,
+      "name": "Priyanka Bhol",
+      "a1": {
+        "submitted": false,
+        "flags": []
+      },
+      "a2": {
+        "submitted": true,
+        "at": "2026-10-05T11:23:19",
+        "flags": [],
+        "score": 10
+      },
+      "a3": {
+        "submitted": true,
+        "at": "2026-11-14T23:52:25",
+        "flags": []
+      },
+      "submittedCount": 2
+    },
+    {
+      "section": "B",
+      "roll": 25,
+      "name": "Priyanka Patnaik",
+      "a1": {
+        "submitted": false,
+        "flags": []
+      },
+      "a2": {
+        "submitted": true,
+        "at": "2026-10-05T11:25:15",
+        "flags": [],
+        "score": 10
+      },
+      "a3": {
+        "submitted": true,
+        "at": "2026-11-14T13:24:07",
+        "flags": []
+      },
+      "submittedCount": 2
+    },
+    {
+      "section": "B",
+      "roll": 26,
+      "name": "Rikan Sahoo",
+      "a1": {
+        "submitted": true,
+        "at": "2026-09-21T17:41:33",
+        "flags": []
+      },
+      "a2": {
+        "submitted": false,
+        "flags": []
+      },
+      "a3": {
+        "submitted": true,
+        "at": "2026-11-14T12:46:40",
+        "flags": []
+      },
+      "submittedCount": 2
+    },
+    {
+      "section": "B",
+      "roll": 27,
+      "name": "Rojalini Barik",
+      "a1": {
+        "submitted": false,
+        "flags": []
+      },
+      "a2": {
+        "submitted": true,
+        "at": "2026-10-05T11:23:53",
+        "flags": [],
+        "score": 6
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 1
+    },
+    {
+      "section": "B",
+      "roll": 28,
+      "name": "Rupali Behera",
+      "a1": {
+        "submitted": false,
+        "flags": []
+      },
+      "a2": {
+        "submitted": true,
+        "at": "2026-10-05T11:26:33",
+        "flags": [],
+        "score": 8
+      },
+      "a3": {
+        "submitted": true,
+        "at": "2026-11-14T14:57:01",
+        "flags": []
+      },
+      "submittedCount": 2
+    },
+    {
+      "section": "B",
+      "roll": 29,
+      "name": "Sandeep Kumar Malik",
+      "a1": {
+        "submitted": false,
+        "flags": []
+      },
+      "a2": {
+        "submitted": true,
+        "at": "2026-10-05T11:26:08",
+        "flags": [
+          "name"
+        ],
+        "score": 10
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 1
+    },
+    {
+      "section": "B",
+      "roll": 30,
+      "name": "Sangita Dhal",
+      "a1": {
+        "submitted": false,
+        "flags": []
+      },
+      "a2": {
+        "submitted": false,
+        "flags": []
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 0
+    },
+    {
+      "section": "B",
+      "roll": 31,
+      "name": "Sarbeswar Mathan",
+      "a1": {
+        "submitted": false,
+        "flags": []
+      },
+      "a2": {
+        "submitted": false,
+        "flags": []
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 0
+    },
+    {
+      "section": "B",
+      "roll": 32,
+      "name": "Satyajit Nath",
+      "a1": {
+        "submitted": true,
+        "at": "2026-09-21T11:21:49",
+        "flags": []
+      },
+      "a2": {
+        "submitted": true,
+        "at": "2026-10-05T11:25:26",
+        "flags": [],
+        "score": 7
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 2
+    },
+    {
+      "section": "B",
+      "roll": 33,
+      "name": "Satyajit Rout",
+      "a1": {
+        "submitted": false,
+        "flags": []
+      },
+      "a2": {
+        "submitted": false,
+        "flags": []
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 0
+    },
+    {
+      "section": "B",
+      "roll": 34,
+      "name": "Silpa Das",
+      "a1": {
+        "submitted": true,
+        "at": "2026-09-21T11:22:32",
+        "flags": []
+      },
+      "a2": {
+        "submitted": true,
+        "at": "2026-10-05T11:25:11",
+        "flags": [],
+        "score": 9
+      },
+      "a3": {
+        "submitted": true,
+        "at": "2026-11-14T19:04:00",
+        "flags": []
+      },
+      "submittedCount": 3
+    },
+    {
+      "section": "B",
+      "roll": 35,
+      "name": "Sloka Sambardhana Das",
+      "a1": {
+        "submitted": true,
+        "at": "2026-09-21T11:24:26",
+        "flags": []
+      },
+      "a2": {
+        "submitted": true,
+        "at": "2026-10-05T11:23:16",
+        "flags": [],
+        "score": 10
+      },
+      "a3": {
+        "submitted": true,
+        "at": "2026-11-14T20:16:20",
+        "flags": []
+      },
+      "submittedCount": 3
+    },
+    {
+      "section": "B",
+      "roll": 36,
+      "name": "Soumya Ranjan Mohanty",
+      "a1": {
+        "submitted": false,
+        "flags": []
+      },
+      "a2": {
+        "submitted": true,
+        "at": "2026-10-05T11:25:45",
+        "flags": [],
+        "score": 6
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 1
+    },
+    {
+      "section": "B",
+      "roll": 37,
+      "name": "Subhadarshini Giri",
+      "a1": {
+        "submitted": true,
+        "at": "2026-09-21T20:15:54",
+        "flags": []
+      },
+      "a2": {
+        "submitted": true,
+        "at": "2026-10-05T11:26:47",
+        "flags": [],
+        "score": 9
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 2
+    },
+    {
+      "section": "B",
+      "roll": 38,
+      "name": "Subham Sahoo",
+      "a1": {
+        "submitted": false,
+        "flags": []
+      },
+      "a2": {
+        "submitted": false,
+        "flags": []
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 0
+    },
+    {
+      "section": "B",
+      "roll": 39,
+      "name": "Subham Sekhar Dash",
+      "a1": {
+        "submitted": false,
+        "flags": []
+      },
+      "a2": {
+        "submitted": false,
+        "flags": []
+      },
+      "a3": {
+        "submitted": true,
+        "at": "2026-11-14T12:19:03",
+        "flags": []
+      },
+      "submittedCount": 1
+    },
+    {
+      "section": "B",
+      "roll": 40,
+      "name": "Subhashree Panda",
+      "a1": {
+        "submitted": true,
+        "at": "2026-09-21T12:13:35",
+        "flags": []
+      },
+      "a2": {
+        "submitted": true,
+        "at": "2026-10-05T11:26:31",
+        "flags": [],
+        "score": 6
+      },
+      "a3": {
+        "submitted": true,
+        "at": "2026-11-13T22:27:34",
+        "flags": []
+      },
+      "submittedCount": 3
+    },
+    {
+      "section": "B",
+      "roll": 41,
+      "name": "Subhasmita Das",
+      "a1": {
+        "submitted": false,
+        "flags": []
+      },
+      "a2": {
+        "submitted": false,
+        "flags": []
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 0
+    },
+    {
+      "section": "B",
+      "roll": 42,
+      "name": "Subhransu Sekhar Sahoo",
+      "a1": {
+        "submitted": true,
+        "at": "2026-09-30T13:53:54",
+        "flags": []
+      },
+      "a2": {
+        "submitted": false,
+        "flags": []
+      },
+      "a3": {
+        "submitted": true,
+        "at": "2026-11-13T22:21:15",
+        "flags": []
+      },
+      "submittedCount": 2
+    },
+    {
+      "section": "B",
+      "roll": 43,
+      "name": "Surya Rasmi Behera",
+      "a1": {
+        "submitted": true,
+        "at": "2026-09-21T11:23:18",
+        "flags": []
+      },
+      "a2": {
+        "submitted": true,
+        "at": "2026-10-05T11:23:59",
+        "flags": [],
+        "score": 9
+      },
+      "a3": {
+        "submitted": true,
+        "at": "2026-11-13T19:21:31",
+        "flags": []
+      },
+      "submittedCount": 3
+    },
+    {
+      "section": "B",
+      "roll": 44,
+      "name": "Swarna Prava Nayak",
+      "a1": {
+        "submitted": true,
+        "at": "2026-09-21T14:06:59",
+        "flags": []
+      },
+      "a2": {
+        "submitted": true,
+        "at": "2026-10-05T12:17:11",
+        "flags": [],
+        "score": 10
+      },
+      "a3": {
+        "submitted": true,
+        "at": "2026-11-13T18:55:00",
+        "flags": []
+      },
+      "submittedCount": 3
+    },
+    {
+      "section": "B",
+      "roll": 45,
+      "name": "Swetapadma Nayak",
+      "a1": {
+        "submitted": true,
+        "at": "2026-09-21T12:14:22",
+        "flags": []
+      },
+      "a2": {
+        "submitted": true,
+        "at": "2026-10-05T11:25:02",
+        "flags": [],
+        "score": 9
+      },
+      "a3": {
+        "submitted": true,
+        "at": "2026-11-14T15:10:29",
+        "flags": []
+      },
+      "submittedCount": 3
+    },
+    {
+      "section": "B",
+      "roll": 46,
+      "name": "Tanisha Barick",
+      "a1": {
+        "submitted": true,
+        "at": "2026-09-21T19:47:48",
+        "flags": []
+      },
+      "a2": {
+        "submitted": false,
+        "flags": []
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 1
+    },
+    {
+      "section": "B",
+      "roll": 47,
+      "name": "Tanisha Senapati",
+      "a1": {
+        "submitted": true,
+        "at": "2026-09-21T22:37:23",
+        "flags": []
+      },
+      "a2": {
+        "submitted": true,
+        "at": "2026-10-05T11:23:48",
+        "flags": [],
+        "score": 10
+      },
+      "a3": {
+        "submitted": true,
+        "at": "2026-11-13T18:32:21",
+        "flags": []
+      },
+      "submittedCount": 3
+    },
+    {
+      "section": "B",
+      "roll": 48,
+      "name": "Tanmay Jena",
+      "a1": {
+        "submitted": false,
+        "flags": []
+      },
+      "a2": {
+        "submitted": false,
+        "flags": []
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 0
+    },
+    {
+      "section": "B",
+      "roll": 49,
+      "name": "Umakanta Sethy",
+      "a1": {
+        "submitted": false,
+        "flags": []
+      },
+      "a2": {
+        "submitted": false,
+        "flags": []
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 0
+    },
+    {
+      "section": "B",
+      "roll": 50,
+      "name": "Gitanjali Mohanty",
+      "a1": {
+        "submitted": false,
+        "flags": []
+      },
+      "a2": {
+        "submitted": true,
+        "at": "2026-10-05T11:21:38",
+        "flags": [],
+        "score": 9
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 1
+    },
+    {
+      "section": "B",
+      "roll": 51,
+      "name": "Biswa Prakash Mallick",
+      "a1": {
+        "submitted": false,
+        "flags": []
+      },
+      "a2": {
+        "submitted": false,
+        "flags": []
+      },
+      "a3": {
+        "submitted": true,
+        "at": "2026-11-14T13:12:20",
+        "flags": []
+      },
+      "submittedCount": 1
+    },
+    {
+      "section": "C",
+      "roll": 1,
+      "name": "Amulya Senapati",
+      "a1": {
+        "submitted": true,
+        "at": "2026-09-21T12:29:49",
+        "flags": []
+      },
+      "a2": {
+        "submitted": false,
+        "flags": []
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 1
+    },
+    {
+      "section": "C",
+      "roll": 2,
+      "name": "Ankit Kumar Mishra",
+      "a1": {
+        "submitted": true,
+        "at": "2026-09-21T12:28:39",
+        "flags": []
+      },
+      "a2": {
+        "submitted": true,
+        "at": "2026-10-05T12:23:00",
+        "flags": [],
+        "score": 10
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 2
+    },
+    {
+      "section": "C",
+      "roll": 3,
+      "name": "Ashisha Kumar Bej",
+      "a1": {
+        "submitted": false,
+        "flags": []
+      },
+      "a2": {
+        "submitted": true,
+        "at": "2026-10-05T12:26:10",
+        "flags": [
+          "name"
+        ],
+        "score": 10
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 1
+    },
+    {
+      "section": "C",
+      "roll": 4,
+      "name": "Ashutosh Panda",
+      "a1": {
+        "submitted": true,
+        "at": "2026-09-21T12:25:19",
+        "flags": [
+          "roll"
+        ]
+      },
+      "a2": {
+        "submitted": true,
+        "at": "2026-10-05T12:20:23",
+        "flags": [
+          "name"
+        ],
+        "score": 10
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 2
+    },
+    {
+      "section": "C",
+      "roll": 5,
+      "name": "Asmita Sahoo",
+      "a1": {
+        "submitted": true,
+        "at": "2026-09-21T17:13:23",
+        "flags": []
+      },
+      "a2": {
+        "submitted": true,
+        "at": "2026-10-05T12:25:55",
+        "flags": [],
+        "score": 10
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 2
+    },
+    {
+      "section": "C",
+      "roll": 6,
+      "name": "Barsa Lenka",
+      "a1": {
+        "submitted": false,
+        "flags": []
+      },
+      "a2": {
+        "submitted": false,
+        "flags": []
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 0
+    },
+    {
+      "section": "C",
+      "roll": 7,
+      "name": "Biswaprakash Chand",
+      "a1": {
+        "submitted": false,
+        "flags": []
+      },
+      "a2": {
+        "submitted": true,
+        "at": "2026-10-05T12:23:23",
+        "flags": [],
+        "score": 10
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 1
+    },
+    {
+      "section": "C",
+      "roll": 8,
+      "name": "Darkhsan Nahid",
+      "a1": {
+        "submitted": false,
+        "flags": []
+      },
+      "a2": {
+        "submitted": false,
+        "flags": []
+      },
+      "a3": {
+        "submitted": true,
+        "at": "2026-11-14T22:02:36",
+        "flags": []
+      },
+      "submittedCount": 1
+    },
+    {
+      "section": "C",
+      "roll": 9,
+      "name": "Debadatta Panda",
+      "a1": {
+        "submitted": false,
+        "flags": []
+      },
+      "a2": {
+        "submitted": true,
+        "at": "2026-10-05T12:23:25",
+        "flags": [],
+        "score": 10
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 1
+    },
+    {
+      "section": "C",
+      "roll": 10,
+      "name": "Deepak Kumar Rout",
+      "a1": {
+        "submitted": false,
+        "flags": []
+      },
+      "a2": {
+        "submitted": true,
+        "at": "2026-10-05T12:23:04",
+        "flags": [],
+        "score": 10
+      },
+      "a3": {
+        "submitted": true,
+        "at": "2026-11-13T19:45:44",
+        "flags": []
+      },
+      "submittedCount": 2
+    },
+    {
+      "section": "C",
+      "roll": 11,
+      "name": "Digbijay Satpathy",
+      "a1": {
+        "submitted": true,
+        "at": "2026-09-21T12:30:09",
+        "flags": []
+      },
+      "a2": {
+        "submitted": true,
+        "at": "2026-10-05T12:23:41",
+        "flags": [],
+        "score": 9
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 2
+    },
+    {
+      "section": "C",
+      "roll": 12,
+      "name": "Dillip Kumar Sahoo",
+      "a1": {
+        "submitted": false,
+        "flags": []
+      },
+      "a2": {
+        "submitted": false,
+        "flags": []
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 0
+    },
+    {
+      "section": "C",
+      "roll": 13,
+      "name": "Dipti Ranjan Bhuyan",
+      "a1": {
+        "submitted": false,
+        "flags": []
+      },
+      "a2": {
+        "submitted": true,
+        "at": "2026-10-05T12:25:56",
+        "flags": [],
+        "score": 10
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 1
+    },
+    {
+      "section": "C",
+      "roll": 14,
+      "name": "Jitendra Prasad Nayak",
+      "a1": {
+        "submitted": true,
+        "at": "2026-09-22T08:04:16",
+        "flags": []
+      },
+      "a2": {
+        "submitted": true,
+        "at": "2026-10-05T12:21:01",
+        "flags": [],
+        "score": 10
+      },
+      "a3": {
+        "submitted": true,
+        "at": "2026-11-15T16:29:06",
+        "flags": []
+      },
+      "submittedCount": 3
+    },
+    {
+      "section": "C",
+      "roll": 15,
+      "name": "Junali Sura",
+      "a1": {
+        "submitted": true,
+        "at": "2026-09-21T13:10:40",
+        "flags": []
+      },
+      "a2": {
+        "submitted": true,
+        "at": "2026-11-02T13:34:51",
+        "flags": [
+          "late"
+        ],
+        "score": 10
+      },
+      "a3": {
+        "submitted": true,
+        "at": "2026-11-13T21:22:06",
+        "flags": []
+      },
+      "submittedCount": 3
+    },
+    {
+      "section": "C",
+      "roll": 16,
+      "name": "Jyotirmayee Pagal",
+      "a1": {
+        "submitted": false,
+        "flags": []
+      },
+      "a2": {
+        "submitted": false,
+        "flags": []
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 0
+    },
+    {
+      "section": "C",
+      "roll": 17,
+      "name": "Kiran Karisma Ray",
+      "a1": {
+        "submitted": false,
+        "flags": []
+      },
+      "a2": {
+        "submitted": false,
+        "flags": []
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 0
+    },
+    {
+      "section": "C",
+      "roll": 18,
+      "name": "Laxmipriya Nayak",
+      "a1": {
+        "submitted": false,
+        "flags": []
+      },
+      "a2": {
+        "submitted": true,
+        "at": "2026-10-05T12:26:07",
+        "flags": [],
+        "score": 5
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 1
+    },
+    {
+      "section": "C",
+      "roll": 19,
+      "name": "Lipsa Behera",
+      "a1": {
+        "submitted": false,
+        "flags": []
+      },
+      "a2": {
+        "submitted": true,
+        "at": "2026-10-05T12:19:41",
+        "flags": [],
+        "score": 10
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 1
+    },
+    {
+      "section": "C",
+      "roll": 20,
+      "name": "Mihir Kumar Mahana",
+      "a1": {
+        "submitted": true,
+        "at": "2026-09-21T12:26:19",
+        "flags": []
+      },
+      "a2": {
+        "submitted": false,
+        "flags": []
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 1
+    },
+    {
+      "section": "C",
+      "roll": 21,
+      "name": "Mohammad Sahil Khan",
+      "a1": {
+        "submitted": false,
+        "flags": []
+      },
+      "a2": {
+        "submitted": true,
+        "at": "2026-10-05T12:20:05",
+        "flags": [],
+        "score": 10
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 1
+    },
+    {
+      "section": "C",
+      "roll": 22,
+      "name": "Neha Parida",
+      "a1": {
+        "submitted": false,
+        "flags": []
+      },
+      "a2": {
+        "submitted": false,
+        "flags": []
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 0
+    },
+    {
+      "section": "C",
+      "roll": 23,
+      "name": "Omm Prakash Rout",
+      "a1": {
+        "submitted": true,
+        "at": "2026-09-21T12:28:08",
+        "flags": []
+      },
+      "a2": {
+        "submitted": true,
+        "at": "2026-10-05T12:21:27",
+        "flags": [],
+        "score": 9
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 2
+    },
+    {
+      "section": "C",
+      "roll": 24,
+      "name": "Omm Prasad Mahapatra",
+      "a1": {
+        "submitted": false,
+        "flags": []
+      },
+      "a2": {
+        "submitted": false,
+        "flags": []
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 0
+    },
+    {
+      "section": "C",
+      "roll": 25,
+      "name": "Pipasa Pattanaik",
+      "a1": {
+        "submitted": true,
+        "at": "2026-09-21T12:31:08",
+        "flags": []
+      },
+      "a2": {
+        "submitted": false,
+        "flags": []
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 1
+    },
+    {
+      "section": "C",
+      "roll": 26,
+      "name": "Prakash Das",
+      "a1": {
+        "submitted": true,
+        "at": "2026-09-21T12:42:44",
+        "flags": []
+      },
+      "a2": {
+        "submitted": false,
+        "flags": []
+      },
+      "a3": {
+        "submitted": true,
+        "at": "2026-11-15T19:17:00",
+        "flags": []
+      },
+      "submittedCount": 2
+    },
+    {
+      "section": "C",
+      "roll": 27,
+      "name": "Prashanta Kumar Sahoo",
+      "a1": {
+        "submitted": false,
+        "flags": []
+      },
+      "a2": {
+        "submitted": true,
+        "at": "2026-10-05T12:34:47",
+        "flags": [],
+        "score": 10
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 1
+    },
+    {
+      "section": "C",
+      "roll": 28,
+      "name": "Prayasikha Pradhan",
+      "a1": {
+        "submitted": true,
+        "at": "2026-09-21T12:25:37",
+        "flags": []
+      },
+      "a2": {
+        "submitted": true,
+        "at": "2026-10-05T12:23:22",
+        "flags": [],
+        "score": 10
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 2
+    },
+    {
+      "section": "C",
+      "roll": 29,
+      "name": "Priyadarshani Pallai",
+      "a1": {
+        "submitted": true,
+        "at": "2026-09-23T20:34:35",
+        "flags": []
+      },
+      "a2": {
+        "submitted": true,
+        "at": "2026-10-05T12:26:06",
+        "flags": [],
+        "score": 9
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 2
+    },
+    {
+      "section": "C",
+      "roll": 30,
+      "name": "Priyanka Sahoo",
+      "a1": {
+        "submitted": false,
+        "flags": []
+      },
+      "a2": {
+        "submitted": false,
+        "flags": []
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 0
+    },
+    {
+      "section": "C",
+      "roll": 31,
+      "name": "Purnima Rout",
+      "a1": {
+        "submitted": false,
+        "flags": []
+      },
+      "a2": {
+        "submitted": false,
+        "flags": []
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 0
+    },
+    {
+      "section": "C",
+      "roll": 32,
+      "name": "Rohit Kumar Das",
+      "a1": {
+        "submitted": true,
+        "at": "2026-09-21T12:30:22",
+        "flags": [
+          "roll"
+        ]
+      },
+      "a2": {
+        "submitted": false,
+        "flags": []
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 1
+    },
+    {
+      "section": "C",
+      "roll": 33,
+      "name": "Samarjit Poddar",
+      "a1": {
+        "submitted": true,
+        "at": "2026-09-21T12:30:47",
+        "flags": []
+      },
+      "a2": {
+        "submitted": true,
+        "at": "2026-10-05T12:24:13",
+        "flags": [],
+        "score": 9
+      },
+      "a3": {
+        "submitted": true,
+        "at": "2026-11-14T23:58:28",
+        "flags": [
+          "duplicate"
+        ]
+      },
+      "submittedCount": 3
+    },
+    {
+      "section": "C",
+      "roll": 34,
+      "name": "Samita Bisoi",
+      "a1": {
+        "submitted": false,
+        "flags": []
+      },
+      "a2": {
+        "submitted": true,
+        "at": "2026-10-05T12:22:52",
+        "flags": [],
+        "score": 10
+      },
+      "a3": {
+        "submitted": true,
+        "at": "2026-11-14T21:50:52",
+        "flags": []
+      },
+      "submittedCount": 2
+    },
+    {
+      "section": "C",
+      "roll": 35,
+      "name": "Sangeeta Ranasingh",
+      "a1": {
+        "submitted": false,
+        "flags": []
+      },
+      "a2": {
+        "submitted": true,
+        "at": "2026-10-05T12:27:30",
+        "flags": [
+          "swap"
+        ],
+        "score": 10
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 1
+    },
+    {
+      "section": "C",
+      "roll": 36,
+      "name": "Satyabrata Prusty",
+      "a1": {
+        "submitted": true,
+        "at": "2026-09-21T12:25:20",
+        "flags": []
+      },
+      "a2": {
+        "submitted": false,
+        "flags": []
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 1
+    },
+    {
+      "section": "C",
+      "roll": 37,
+      "name": "Satyaswaroop Raj",
+      "a1": {
+        "submitted": false,
+        "flags": []
+      },
+      "a2": {
+        "submitted": true,
+        "at": "2026-10-05T12:23:54",
+        "flags": [],
+        "score": 10
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 1
+    },
+    {
+      "section": "C",
+      "roll": 38,
+      "name": "Shanbi Sahoo",
+      "a1": {
+        "submitted": false,
+        "flags": []
+      },
+      "a2": {
+        "submitted": false,
+        "flags": []
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 0
+    },
+    {
+      "section": "C",
+      "roll": 39,
+      "name": "Sonali Sahoo",
+      "a1": {
+        "submitted": false,
+        "flags": []
+      },
+      "a2": {
+        "submitted": true,
+        "at": "2026-10-05T12:24:58",
+        "flags": [],
+        "score": 4
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 1
+    },
+    {
+      "section": "C",
+      "roll": 40,
+      "name": "Soumyaranjan Dhal",
+      "a1": {
+        "submitted": true,
+        "at": "2026-09-21T12:38:26",
+        "flags": []
+      },
+      "a2": {
+        "submitted": true,
+        "at": "2026-10-05T12:23:02",
+        "flags": [],
+        "score": 10
+      },
+      "a3": {
+        "submitted": true,
+        "at": "2026-11-16T06:38:33",
+        "flags": []
+      },
+      "submittedCount": 3
+    },
+    {
+      "section": "C",
+      "roll": 41,
+      "name": "Srutipritam Khuntia",
+      "a1": {
+        "submitted": false,
+        "flags": []
+      },
+      "a2": {
+        "submitted": false,
+        "flags": []
+      },
+      "a3": {
+        "submitted": true,
+        "at": "2026-11-15T11:31:51",
+        "flags": []
+      },
+      "submittedCount": 1
+    },
+    {
+      "section": "C",
+      "roll": 42,
+      "name": "Subham Pradhan",
+      "a1": {
+        "submitted": true,
+        "at": "2026-09-21T12:27:14",
+        "flags": []
+      },
+      "a2": {
+        "submitted": true,
+        "at": "2026-10-05T12:21:22",
+        "flags": [],
+        "score": 9
+      },
+      "a3": {
+        "submitted": true,
+        "at": "2026-11-14T20:05:59",
+        "flags": []
+      },
+      "submittedCount": 3
+    },
+    {
+      "section": "C",
+      "roll": 43,
+      "name": "Subhasmita Moharana",
+      "a1": {
+        "submitted": true,
+        "at": "2026-09-21T12:39:29",
+        "flags": [
+          "duplicate"
+        ]
+      },
+      "a2": {
+        "submitted": false,
+        "flags": []
+      },
+      "a3": {
+        "submitted": true,
+        "at": "2026-11-14T14:27:49",
+        "flags": []
+      },
+      "submittedCount": 2
+    },
+    {
+      "section": "C",
+      "roll": 44,
+      "name": "Subhranshu Bal",
+      "a1": {
+        "submitted": false,
+        "flags": []
+      },
+      "a2": {
+        "submitted": true,
+        "at": "2026-10-05T12:24:01",
+        "flags": [],
+        "score": 6
+      },
+      "a3": {
+        "submitted": true,
+        "at": "2026-11-14T22:37:54",
+        "flags": []
+      },
+      "submittedCount": 2
+    },
+    {
+      "section": "C",
+      "roll": 45,
+      "name": "Sushree Nibedita Khatua",
+      "a1": {
+        "submitted": false,
+        "flags": []
+      },
+      "a2": {
+        "submitted": false,
+        "flags": []
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 0
+    },
+    {
+      "section": "C",
+      "roll": 46,
+      "name": "Swati Nanda",
+      "a1": {
+        "submitted": false,
+        "flags": []
+      },
+      "a2": {
+        "submitted": false,
+        "flags": []
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 0
+    },
+    {
+      "section": "C",
+      "roll": 47,
+      "name": "Swatipriya Swain",
+      "a1": {
+        "submitted": true,
+        "at": "2026-09-21T19:18:59",
+        "flags": []
+      },
+      "a2": {
+        "submitted": false,
+        "flags": []
+      },
+      "a3": {
+        "submitted": true,
+        "at": "2026-11-14T15:13:49",
+        "flags": []
+      },
+      "submittedCount": 2
+    },
+    {
+      "section": "C",
+      "roll": 48,
+      "name": "Telisha Jena",
+      "a1": {
+        "submitted": true,
+        "at": "2026-09-23T13:02:56",
+        "flags": []
+      },
+      "a2": {
+        "submitted": true,
+        "at": "2026-10-05T12:26:02",
+        "flags": [],
+        "score": 9
+      },
+      "a3": {
+        "submitted": true,
+        "at": "2026-11-14T20:10:05",
+        "flags": []
+      },
+      "submittedCount": 3
+    },
+    {
+      "section": "C",
+      "roll": 49,
+      "name": "Bardan Mishra",
+      "a1": {
+        "submitted": true,
+        "at": "2026-09-21T12:38:43",
+        "flags": [
+          "roll"
+        ]
+      },
+      "a2": {
+        "submitted": true,
+        "at": "2026-10-05T12:22:35",
+        "flags": [],
+        "score": 6
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 2
+    },
+    {
+      "section": "C",
+      "roll": 50,
+      "name": "Deepti Ranjan Nayak",
+      "a1": {
+        "submitted": true,
+        "at": "2026-09-21T12:26:09",
+        "flags": []
+      },
+      "a2": {
+        "submitted": true,
+        "at": "2026-10-05T12:25:39",
+        "flags": [],
+        "score": 10
+      },
+      "a3": {
+        "submitted": true,
+        "at": "2026-11-14T20:08:00",
+        "flags": []
+      },
+      "submittedCount": 3
+    },
+    {
+      "section": "C",
+      "roll": 51,
+      "name": "Dhananjaya Dash",
+      "a1": {
+        "submitted": true,
+        "at": "2026-09-21T12:25:33",
+        "flags": []
+      },
+      "a2": {
+        "submitted": true,
+        "at": "2026-10-05T12:29:30",
+        "flags": [],
+        "score": 10
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 2
+    },
+    {
+      "section": "C",
+      "roll": 52,
+      "name": "Swaraj Chandra Sahoo",
+      "a1": {
+        "submitted": false,
+        "flags": []
+      },
+      "a2": {
+        "submitted": true,
+        "at": "2026-10-05T12:23:07",
+        "flags": [
+          "name"
+        ],
+        "score": 10
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 1
+    },
+    {
+      "section": "C",
+      "roll": 53,
+      "name": "Banasmita Rout",
+      "a1": {
+        "submitted": false,
+        "flags": []
+      },
+      "a2": {
+        "submitted": false,
+        "flags": []
+      },
+      "a3": {
+        "submitted": false,
+        "flags": []
+      },
+      "submittedCount": 0
+    }
+  ],
+  "discrepancies": [
+    {
+      "assignment": "a1",
+      "section": "C",
+      "roll": 49,
+      "name": "Bardan Mishra",
+      "kind": "roll",
+      "severity": "high",
+      "at": "2026-09-21T12:38:43",
+      "title": "Roll number entered as “48”",
+      "detail": "Recorded roll was “48”. Roll 48 belongs to Telisha Jena; matched to C49 by name."
+    },
+    {
+      "assignment": "a1",
+      "section": "C",
+      "roll": 4,
+      "name": "Ashutosh Panda",
+      "kind": "roll",
+      "severity": "medium",
+      "at": "2026-09-21T12:25:19",
+      "title": "Roll number entered as “4 C”",
+      "detail": "Recorded roll was “4 C”. Matched by name to C4 · Ashutosh Panda."
+    },
+    {
+      "assignment": "a1",
+      "section": "C",
+      "roll": 32,
+      "name": "Rohit Kumar Das",
+      "kind": "roll",
+      "severity": "medium",
+      "at": "2026-09-21T12:30:22",
+      "title": "Roll number entered as “20260156”",
+      "detail": "Recorded roll was “20260156”. Matched by name to C32 · Rohit Kumar Das."
+    },
+    {
+      "assignment": "a1",
+      "section": "C",
+      "roll": 43,
+      "name": "Subhasmita Moharana",
+      "kind": "duplicate",
+      "severity": "low",
+      "at": "2026-09-21T12:39:29",
+      "title": "Submitted 2 times",
+      "detail": "First: 21 Sep, 12:39 · 24 Sep, 23:30. Counted once."
+    },
+    {
+      "assignment": "a2",
+      "section": "C",
+      "roll": 35,
+      "name": "Sangeeta Ranasingh",
+      "kind": "swap",
+      "severity": "medium",
+      "at": "2026-10-05T12:27:30",
+      "title": "Name and roll-number fields were swapped",
+      "detail": "Name field contained “35” and roll field contained “Sangeeta Ranasingh”. Resolved to C35 · Sangeeta Ranasingh from the email and roster."
+    },
+    {
+      "assignment": "a2",
+      "section": "C",
+      "roll": 15,
+      "name": "Junali Sura",
+      "kind": "late",
+      "severity": "medium",
+      "at": "2026-11-02T13:34:51",
+      "title": "Submitted after the window",
+      "detail": "Response arrived 2 Nov 2026, 13:34 (window ended 5 Oct)."
+    },
+    {
+      "assignment": "a2",
+      "section": "A",
+      "roll": 41,
+      "name": "Soumya Ranjan Sahoo",
+      "kind": "name",
+      "severity": "low",
+      "at": "2026-10-05T10:30:28",
+      "title": "Name recorded differently",
+      "detail": "Form shows “Soumya” · roster name is “Soumya Ranjan Sahoo”. Matched using the roll number."
+    },
+    {
+      "assignment": "a2",
+      "section": "A",
+      "roll": 46,
+      "name": "Subrata Biswal",
+      "kind": "name",
+      "severity": "low",
+      "at": "2026-10-05T10:41:45",
+      "title": "Name recorded differently",
+      "detail": "Form shows “Subrat kumar Biswal” · roster name is “Subrata Biswal”. Matched using the roll number."
+    },
+    {
+      "assignment": "a2",
+      "section": "B",
+      "roll": 29,
+      "name": "Sandeep Kumar Malik",
+      "kind": "name",
+      "severity": "low",
+      "at": "2026-10-05T11:26:08",
+      "title": "Name recorded differently",
+      "detail": "Form shows “Sandeep Kumar” · roster name is “Sandeep Kumar Malik”. Matched using the roll number."
+    },
+    {
+      "assignment": "a2",
+      "section": "C",
+      "roll": 4,
+      "name": "Ashutosh Panda",
+      "kind": "name",
+      "severity": "low",
+      "at": "2026-10-05T12:20:23",
+      "title": "Name recorded differently",
+      "detail": "Form shows “Ai” · roster name is “Ashutosh Panda”. Matched using the roll number."
+    },
+    {
+      "assignment": "a2",
+      "section": "C",
+      "roll": 52,
+      "name": "Swaraj Chandra Sahoo",
+      "kind": "name",
+      "severity": "low",
+      "at": "2026-10-05T12:23:07",
+      "title": "Name recorded differently",
+      "detail": "Form shows “Shree Swaraj Chandra Sahoo” · roster name is “Swaraj Chandra Sahoo”. Matched using the roll number."
+    },
+    {
+      "assignment": "a2",
+      "section": "C",
+      "roll": 3,
+      "name": "Ashisha Kumar Bej",
+      "kind": "name",
+      "severity": "low",
+      "at": "2026-10-05T12:26:10",
+      "title": "Name recorded differently",
+      "detail": "Form shows “ASHISHA BEJ” · roster name is “Ashisha Kumar Bej”. Matched using the roll number."
+    },
+    {
+      "assignment": "a3",
+      "section": "A",
+      "roll": 27,
+      "name": "Pratikshya Sarangi",
+      "kind": "roll",
+      "severity": "medium",
+      "at": "2026-11-14T13:14:05",
+      "title": "Roll number entered as “1_27_Pratikshya Sarangi”",
+      "detail": "Recorded roll was “1_27_Pratikshya Sarangi”. Matched by name to A27 · Pratikshya Sarangi."
+    },
+    {
+      "assignment": "a3",
+      "section": "B",
+      "roll": 9,
+      "name": "Chandan Kumar Sahoo",
+      "kind": "name",
+      "severity": "low",
+      "at": "2026-11-14T12:21:03",
+      "title": "Name recorded differently",
+      "detail": "Form shows “Chandan kumar shaoo” · roster name is “Chandan Kumar Sahoo”. Matched using the roll number."
+    },
+    {
+      "assignment": "a3",
+      "section": "B",
+      "roll": 13,
+      "name": "Kiran Kumar Bastia",
+      "kind": "duplicate",
+      "severity": "low",
+      "at": "2026-11-14T12:47:00",
+      "title": "Submitted 2 times",
+      "detail": "First: 14 Nov, 12:47 · 14 Nov, 13:12. Counted once."
+    },
+    {
+      "assignment": "a3",
+      "section": "C",
+      "roll": 33,
+      "name": "Samarjit Poddar",
+      "kind": "duplicate",
+      "severity": "low",
+      "at": "2026-11-14T23:58:28",
+      "title": "Submitted 2 times",
+      "detail": "First: 14 Nov, 23:58 · 16 Nov, 06:37. Counted once."
+    }
+  ]
+}
